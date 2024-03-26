@@ -1,0 +1,41 @@
+			Mega Sensor Project - As seen from Top of Board
+					
+Device Name                                                       Pins
+------------------------------------------------------------------------------------------
+Footer for ESP32                                                  B1 - B10
+                                                                  J1 - J10
+
+JST Connector 4 pin   BH1750                                      E15 - E18
+JST Connector 4 pin   VL53LOX                                     E20 - E23
+JST Connector 5 pin   LD2410C                                     E25 - E29
+JST Connector 3 pin   TTP223                                      D15 - D17
+JST Connector 4 pin   BME280                                      D19 - D22
+JST Connector 3 pin   PIR                                         D24 - D26
+
+Barrel Power Connector                                            D30, B29, D28
+
+Power Connections Barrel Power Hookup Wire                        J28 to +, J30 to -
+Power Connections ESP32 Hookup Wire                               A3  to +, A4  to -
+Power Connections BH1750 Hookup Wire                              A17 to -, A18 to +
+Power Connections VL53LOX Hookup Wire                             A20 to +, A21 to -
+Power Connections LD2410C Hookup Wire                             A28 to -, A29 to +
+Power Connections BH1750 Hookup Wire                              J15 to -, J17 to +
+Power Connections BME280 Hookup Wire                              J21 to -, J22 to +
+Power Connections PIR Hookup Wire                                 J24 to +, J26 to -
+
+Data Hookup Wire                                                  C7  to B15
+Data Hookup Wire                                                  D8  to B16
+Data Hookup Wire                                                  C16 to C22
+Data Hookup Wire                                                  C15 to B23
+Data Hookup Wire                                                  D9  to C25
+Data Hookup Wire                                                  E10 to C26
+Data Hookup Wire                                                  I5  to I16
+Data Hookup Wire                                                  H6  to I25
+Data Hookup Wire                                                  E8  to H20
+Data Hookup Wire                                                  E7  to I19
+
+This is how i wired mine and it works so yours should as well. Keep in mind that the components listed
+above is placed on the top side of the board. You solder the connections on the bottom side.
+
+Any questions about this please ask them in the comments section on my youtube channel.
+https://www.youtube.com/watch?v=JreXLx5TAmk
