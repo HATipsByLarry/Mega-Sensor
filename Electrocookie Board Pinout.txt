@@ -5,12 +5,12 @@ Device Name                                                       Pins
 Footer for ESP32                                                  B1 - B10
                                                                   J1 - J10
 
-JST Connector 4 pin male  BH1750                                      E15 - E18
-JST Connector 4 pin male  VL53LOX                                     E20 - E23
-JST Connector 5 pin male  LD2410C                                     E25 - E29
-JST Connector 3 pin male  TTP223                                      D15 - D17
-JST Connector 4 pin male  BME280                                      D19 - D22
-JST Connector 3 pin male  PIR                                         D24 - D26
+JST Connector 4 pin male  BH1750                                  E15 - E18
+JST Connector 4 pin male  VL53LOX                                 E20 - E23
+JST Connector 5 pin male  LD2410C                                 E25 - E29
+JST Connector 3 pin male  TTP223                                  D15 - D17
+JST Connector 4 pin male  BME280                                  D19 - D22
+JST Connector 3 pin male  PIR                                     D24 - D26
 
 Barrel Power Connector                                            D30, B29, D28
 
