@@ -6,3 +6,5 @@ https://www.buymeacoffee.com/hatipsbylarry
 
 Youtube Mega Sensor Project Video
 https://www.youtube.com/watch?v=JreXLx5TAmk
+
+Discord channel: https://discord.com/invite/9EkA5rFyCE
