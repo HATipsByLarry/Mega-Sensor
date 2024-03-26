@@ -9,5 +9,5 @@ https://www.youtube.com/watch?v=JreXLx5TAmk
 
 Discord channel: https://discord.com/invite/9EkA5rFyCE
 
-Parts List: https://www.canva.com/design/DAGAdAF-...
+Parts List: https://www.canva.com/design/DAGAdAF-J7g/zUyNrgHOqALkGV4vwOwYlw/view?utm_content=DAGAdAF-J7g&utm_campaign=designshare&utm_medium=link&utm_source=editor
   * As an Amazon Associate I earn from qualifying purchases. Using this link ⇈ provides small monetary support for my channel at no extra cost to you.💖
