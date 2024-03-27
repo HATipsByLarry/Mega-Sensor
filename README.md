@@ -14,7 +14,5 @@ Parts List: https://www.canva.com/design/DAGAdAF-J7g/zUyNrgHOqALkGV4vwOwYlw/view
 
 When Inserting components please use the front of the board as shown below. Use the number and letters on this
 side of the board
-
 ![director](https://github.com/HATipsByLarry/Mega-Sensor/assets/49766850/cdc74595-d361-417c-8904-cb6ef8ec3f4f)
-
 Solder the board on the other side. Ignore the number and lettering scheme on the side you solder from.
