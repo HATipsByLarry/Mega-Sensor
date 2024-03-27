@@ -5,6 +5,8 @@ side of the board
 ![director](https://github.com/HATipsByLarry/Mega-Sensor/assets/49766850/cdc74595-d361-417c-8904-cb6ef8ec3f4f)
 Solder the board on the other side. Ignore the number and lettering scheme on the side you solder from.
 
+Electrocokie Board Pinout: https://github.com/HATipsByLarry/Mega-Sensor/blob/main/Electrocookie%20Board%20Pinout.txt
+
 Youtube Mega Sensor Project Video
 https://www.youtube.com/watch?v=JreXLx5TAmk
 
