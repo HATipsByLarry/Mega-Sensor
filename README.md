@@ -7,6 +7,8 @@ Solder the board on the other side. Ignore the number and lettering scheme on th
 
 Electrocokie Board Pinout: https://github.com/HATipsByLarry/Mega-Sensor/blob/main/Electrocookie%20Board%20Pinout.txt
 
+ESPHome Yaml Code: https://github.com/HATipsByLarry/Mega-Sensor/blob/main/Mega-Sensor.yaml
+
 Youtube Mega Sensor Project Video
 https://www.youtube.com/watch?v=JreXLx5TAmk
 
