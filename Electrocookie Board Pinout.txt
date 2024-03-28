@@ -1,44 +1,51 @@
-			Mega Sensor Project - As seen from Top of Board
+			Mega Sensor Project ESP32C3 - As seen from Top of Board
 					
-Device Name                                                       Pins
+Device Name                                                       Pins         
 ------------------------------------------------------------------------------------------
-Footer for ESP32                                                  B1 - B10
-                                                                  J1 - J10
+Footer for ESP32                                                  D1 - D7      Note 1
+                                                                  H1 - H7      Note 1
 
-JST Connector 4 pin male  BH1750                                  E15 - E18
-JST Connector 4 pin male  VL53LOX                                 E20 - E23
-JST Connector 5 pin male  LD2410C                                 E25 - E29
-JST Connector 3 pin male  TTP223                                  D15 - D17
-JST Connector 4 pin male  BME280                                  D19 - D22
-JST Connector 3 pin male  PIR                                     D24 - D26
+JST Connector 4 pin   BH1750                                      E11 - E14    Note 2
+JST Connector 4 pin   VL53LOX                                     E16 - E19    Note 2
+JST Connector 5 pin   LD2410C                                     E21 - E25    Note 2
+JST Connector 3 pin   TTP223                                      F11 - F13    Note 2
+JST Connector 4 pin   BME280                                      F15 - F18    Note 2
+JST Connector 3 pin   PIR                                         F20 - F22    Note 2
+JST Connector 2 pin   BED SENSOR                                  F24 - F25    Note 2
 
-Barrel Power Connector                                            D30, B29, D28
+Barrel Power Connector                                            F30, H29, F28
 
 Power Connections Barrel Power Hookup Wire                        J28 to +, J30 to -
-Power Connections ESP32 Hookup Wire                               A3  to +, A4  to -
-Power Connections BH1750 Hookup Wire                              A17 to -, A18 to +
-Power Connections VL53LOX Hookup Wire                             A20 to +, A21 to -
-Power Connections LD2410C Hookup Wire                             A28 to -, A29 to +
-Power Connections BH1750 Hookup Wire                              J15 to -, J17 to +
-Power Connections BME280 Hookup Wire                              J21 to -, J22 to +
-Power Connections PIR Hookup Wire                                 J24 to +, J26 to -
+Power Connections ESP32 Hookup Wire                               A7  to +, A6  to -
+Power Connections BH1750 Hookup Wire                              A12 to -, A11 to +
+Power Connections VL53LOX Hookup Wire                             A19 to +, A18 to -
+Power Connections LD2410C Hookup Wire                             A22 to -, A21 to +
+Power Connections TTP223 Hookup Wire                              J11 to -, J13 to +
+Power Connections BME280 Hookup Wire                              J17 to -, J18 to +
+Power Connections PIR Hookup Wire                                 J20 to +, J22 to -
+Power Connections BED SENSOR Hookup Wire                          J25 to -
 
-Data Hookup Wire                                                  C7  to B15
-Data Hookup Wire                                                  D8  to B16
-Data Hookup Wire                                                  C16 to C22
-Data Hookup Wire                                                  C15 to B23
-Data Hookup Wire                                                  D9  to C25
-Data Hookup Wire                                                  E10 to C26
-Data Hookup Wire                                                  I5  to I16
-Data Hookup Wire                                                  H6  to I25
-Data Hookup Wire                                                  E8  to H20
-Data Hookup Wire                                                  E7  to I19
+Data Hookup Wire                                                  B1  to B25
+Data Hookup Wire                                                  B13 to B17
+Data Hookup Wire                                                  C8  to G24
+Data Hookup Wire                                                  C13 to G2
+Data Hookup Wire                                                  C14 to C16
+Data Hookup Wire                                                  C24 to F1
+Data Hookup Wire                                                  D8  to G6
+Data Hookup Wire                                                  D14 TO G3
+39k Ohm Resistor                                                  E5  to E8
+Data Hookup Wire                                                  H15 to I3
+Data Hookup Wire                                                  H21 to I5
+Data Hookup Wire                                                  I12 to J4
+
+Note 1 - The ESP32C3 micro controller plugs in to the footers with the antenna connector facing the
+         edge of the electrocookie board. See picture in readme file.
+
+Note 2 - The JST connectors install on to the electrocookie board with the 2 cutouts for the female
+         connector facing the edges of the electrocookie board. See picture in readme file.
 
 This is how i wired mine and it works so yours should as well. Keep in mind that the components listed
 above is placed on the top side of the board. You solder the connections on the bottom side.
 
 Any questions about this please ask them in the comments section on my youtube channel.
 https://www.youtube.com/watch?v=JreXLx5TAmk
-
-You can also ask questions on my discord channel as well.
-https://discord.com/invite/9EkA5rFyCE
