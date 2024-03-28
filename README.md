@@ -5,6 +5,9 @@ side of the board
 ![director](https://github.com/HATipsByLarry/Mega-Sensor/assets/49766850/cdc74595-d361-417c-8904-cb6ef8ec3f4f)
 Solder the board on the other side. Ignore the number and lettering scheme on the side you solder from.
 
+View of the Board with the ESP32C3 plugged in
+![ESP32C3 side view](https://github.com/HATipsByLarry/Mega-Sensor/assets/49766850/7d30f906-48b9-43c0-9283-095bf3c56513)
+
 Electrocookie Board Pinout: https://github.com/HATipsByLarry/Mega-Sensor/blob/main/Electrocookie%20Board%20Pinout.txt
 
 ESPHome Yaml Code: https://github.com/HATipsByLarry/Mega-Sensor/blob/main/Mega-Sensor.yaml
