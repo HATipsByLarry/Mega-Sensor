@@ -9,7 +9,7 @@ View of the Board with the ESP32C3 plugged in
 ![ESP32C3 side view](https://github.com/HATipsByLarry/Mega-Sensor/assets/49766850/7d30f906-48b9-43c0-9283-095bf3c56513)
 
 View of electrocookie board from the side with the ESP#@C3 micro controller plugged in.
-![esp32c3 side view](https://github.com/HATipsByLarry/Mega-Sensor/assets/49766850/12ec7c2d-1a6a-48ed-90a3-fef536b21cbd)
+![esp32c3 side view](https://github.com/HATipsByLarry/Mega-Sensor/assets/49766850/0529d967-fff6-4381-b3ec-65014d555bdf)
 
 
 Electrocookie Board Pinout: https://github.com/HATipsByLarry/Mega-Sensor/blob/main/Electrocookie%20Board%20Pinout.txt
