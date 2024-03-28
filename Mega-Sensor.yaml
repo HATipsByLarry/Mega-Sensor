@@ -1,13 +1,13 @@
 uart:
-  tx_pin: 03
-  rx_pin: 01
+  tx_pin: 21
+  rx_pin: 20
   baud_rate: 256000
   parity: NONE
   stop_bits: 1
 
 i2c:
-  sda: 21
-  scl: 22
+  sda: 6
+  scl: 7
   scan: true
   id: bus_a
 
@@ -119,7 +119,7 @@ number:
 binary_sensor:
   - platform: gpio
     pin:
-      number: 34
+      number: 5
       mode:
         input: true
     name: "Master Bedroom Left"
@@ -131,7 +131,7 @@ binary_sensor:
       - delayed_on: 10ms
 
   - platform: gpio
-    pin: 33
+    pin: 4
     name: "Bedside Table Foot"
     device_class: motion
 
@@ -192,6 +192,12 @@ sensor:
     unit_of_measurement: "ft"
     filters:
       - multiply: 3.281
+
+  - platform: adc
+    pin: 3
+    name: "Bed Occupancy Sensor"
+    attenuation: auto
+    update_interval: 500ms
 
   - platform: bme280_i2c
     temperature:
