@@ -35,6 +35,7 @@ Data Hookup Wire                                                  D8  to G6
 Data Hookup Wire                                                  D14 TO G3
 39k Ohm Resistor                                                  E5  to E8
 Data Hookup Wire                                                  H15 to I3
+Data Hookup Wire                                                  H16 to I2
 Data Hookup Wire                                                  H21 to I5
 Data Hookup Wire                                                  I12 to J4
 
