@@ -1,6 +1,6 @@
 Project for Creating a Mega-Sensor in your Bedroom
 
-Update - I have changed the micro controller. Instead one a D1 mini ESP32, I am now using a ESP32C3 Tiny Micro controller. This allows for another sensor
+Update - I have changed the micro controller. Instead of a D1 mini ESP32, I am now using a ESP32C3 Tiny Micro controller. This allows for another sensor
          to be added, the Bed Occupancy Sensor. All files in this github reposatory have been updated to reflect this change.
          
 When Inserting components please use the front of the board as shown below. Use the number and letters on this
