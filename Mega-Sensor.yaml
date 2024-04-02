@@ -208,6 +208,8 @@ sensor:
       unit_of_measurement: "°F"
     humidity:
       name: "Bedroom Humidity"
+      filters:
+        - offset: 6.0
     address: 0x76
     update_interval: 60s
 
