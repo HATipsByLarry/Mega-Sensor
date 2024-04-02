@@ -14,9 +14,9 @@ Electrocookie Board Pinout: https://github.com/HATipsByLarry/Mega-Sensor/blob/ma
 
 ESPHome Yaml Code: https://github.com/HATipsByLarry/Mega-Sensor/blob/main/Mega-Sensor.yaml
 
-Youtube Mega Sensor Project Video
-https://www.youtube.com/watch?v=JreXLx5TAmk
-
+Youtube Mega Sensor Project Videos
+Part 1: https://www.youtube.com/watch?v=JreXLx5TAmk
+Part 2: https://www.youtube.com/watch?v=mGptTfPvRJo
 Discord channel: https://discord.com/invite/9EkA5rFyCE
 
 Parts List: https://www.canva.com/design/DAGA6FF-g_4/JUKo-u9jxN5DWepJ4-VoAQ/view?utm_content=DAGA6FF-g_4&utm_campaign=designshare&utm_medium=link&utm_source=editor
