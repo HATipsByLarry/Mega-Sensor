@@ -17,6 +17,7 @@ ESPHome Yaml Code: https://github.com/HATipsByLarry/Mega-Sensor/blob/main/Mega-S
 Youtube Mega Sensor Project Videos
 
 Part 1: https://www.youtube.com/watch?v=JreXLx5TAmk
+
 Part 2: https://www.youtube.com/watch?v=mGptTfPvRJo
 Discord channel: https://discord.com/invite/9EkA5rFyCE
 
